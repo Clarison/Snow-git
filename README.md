@@ -91,7 +91,7 @@ We use GitHub Actions to automate deployments to Snowflake. Here's how to set it
 
 ## Contributing
 
-Contributions to Snow-git are welcome! Whether you find a bug, have a feature request, or want to contribute code or documentation, please refer to our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
+Contributions to Snow-git are welcome! Whether you find a bug, have a feature request, or want to contribute code or documentation, please email me on clarisondsilva23@gmail.com for details on how to get involved.
 
 
 This consolidated README file includes all the essential information for your project in a single document. Please replace the placeholders and customize it further based on your project's specific needs and design preferences.
