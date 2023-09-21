@@ -1,5 +1,4 @@
 
-```markdown
 # Snow-git: Simplifying Snowflake Schema Management with Git
 
 ![Snow-git Logo](snow-git-logo.png) 
