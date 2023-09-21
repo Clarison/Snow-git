@@ -81,13 +81,5 @@ Automating deployments to Snowflake can save time and reduce errors. Consider in
 
 Contributions to Snow-git are welcome! Whether you find a bug, have a feature request, or want to contribute code or documentation, please refer to our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
 
-## License
-
-Snow-git is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We want to express our gratitude to the open-source community for their valuable contributions to this project. Special thanks to [List of Contributors](CONTRIBUTORS.md).
-```
 
 This consolidated README file includes all the essential information for your project in a single document. Please replace the placeholders and customize it further based on your project's specific needs and design preferences.
