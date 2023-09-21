@@ -64,11 +64,11 @@ Snow-git encourages a structured folder hierarchy for organizing your schema cha
 snow-git/
 ├── db/
 │   ├── schema1/
-│   │   ├── 001_create_table.sql
-│   │   ├── 002_add_column.sql
+│   │   ├── V001_create_table.sql
+│   │   ├── V002_add_column.sql
 │   ├── schema2/
-│   │   ├── 001_create_table.sql
-│   │   ├── 002_modify_table.sql
+│   │   ├── V001_create_table.sql
+│   │   ├── V002_modify_table.sql
 ```
 
 ### Version Control Workflow
