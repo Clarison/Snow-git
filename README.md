@@ -83,11 +83,11 @@ snow-git/
 
 We use GitHub Actions to automate deployments to Snowflake. Here's how to set it up:
 
-    1.Create YAML files for GitHub Actions workflows and triggers.
+1. Create YAML files for GitHub Actions workflows and triggers.
 
-    2.Define your deployment workflow, including the steps required to deploy schema changes.
+2. Define your deployment workflow, including the steps required to deploy schema changes.
 
-    3.Set up triggers to automatically initiate the deployment workflow based on specific events or schedules.
+3. Set up triggers to automatically initiate the deployment workflow based on specific events or schedules.
 
 ## Contributing
 
