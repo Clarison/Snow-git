@@ -25,7 +25,13 @@ Managing database schema changes efficiently is essential for any modern softwar
 
 - **Structured Workflow**: Follow a structured development workflow to ensure consistency and reliability in schema changes.
 
-- **Automated Deployment**: Streamline your deployment process by automating the deployment of schema changes to your Snowflake instance.
+- **Automated Deployment**:We use GitHub Actions to automate deployments to Snowflake. Here's how to set it up:
+
+Create YAML files for GitHub Actions workflows and triggers.
+
+Define your deployment workflow, including the steps required to deploy schema changes.
+
+Set up triggers to automatically initiate the deployment workflow based on specific events or schedules.
 
 ## Getting Started
 
@@ -75,7 +81,13 @@ snow-git/
 
 ### Automated Deployment
 
-Automating deployments to Snowflake can save time and reduce errors. Consider integrating CI/CD pipelines or scripts to automate the deployment of schema changes. Always prioritize the secure handling of Snowflake credentials.
+We use GitHub Actions to automate deployments to Snowflake. Here's how to set it up:
+
+1.Create YAML files for GitHub Actions workflows and triggers.
+
+2.Define your deployment workflow, including the steps required to deploy schema changes.
+
+3.Set up triggers to automatically initiate the deployment workflow based on specific events or schedules.
 
 ## Contributing
 
