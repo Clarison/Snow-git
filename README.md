@@ -1,7 +1,6 @@
 
 # Snow-git: Simplifying Snowflake Schema Management with Git
 
-![Snow-git Logo](snow-git-logo.png) 
 Snow-git is a powerful tool designed to streamline the management of database schema changes for Snowflake using Git. It empowers your team to collaborate effectively, track schema changes over time, and automate deployments with ease.
 
 ## Table of Contents
