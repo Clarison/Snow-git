@@ -95,3 +95,6 @@ Contributions to Snow-git are welcome! Whether you find a bug, have a feature re
 
 
 This consolidated README file includes all the essential information for your project in a single document. Please replace the placeholders and customize it further based on your project's specific needs and design preferences.
+
+
+Sample Tableau Dashboard :- https://public.tableau.com/app/profile/clarison.james.dsilva/viz/Nyc_payroll_analysis/MasterDashboard?publish=yes
